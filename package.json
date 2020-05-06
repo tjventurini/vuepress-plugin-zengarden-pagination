@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-zengarden-pagination",
+  "version": "1.0.0",
+  "description": "Pagination for your VuePress blog 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjventurini/vuepress-plugin-zengarden-pagination.git"
+  },
+  "keywords": [
+    "vuepress",
+    "vuepress",
+    "plugin",
+    "zengarden",
+    "blog"
+  ],
+  "author": "Thomas Venturini <thomas@venturini.codes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjventurini/vuepress-plugin-zengarden-pagination/issues"
+  },
+  "homepage": "https://github.com/tjventurini/vuepress-plugin-zengarden-pagination#readme"
+}
