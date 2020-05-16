@@ -1,6 +1,6 @@
 # VuePress Plugin Zengarden Pagination
 
-Provides Pagination for your VuePress blog 🚀
+Provides pagination for your VuePress blog 🚀
 
 ## Installation
 
